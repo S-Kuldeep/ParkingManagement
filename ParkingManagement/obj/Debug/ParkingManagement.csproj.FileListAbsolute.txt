@@ -1,0 +1,6 @@
+D:\CodePractice\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+D:\CodePractice\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojResolveAssemblyReference.cache
+D:\CodePractice\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+D:\CodePractice\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+D:\CodePractice\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+D:\CodePractice\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
